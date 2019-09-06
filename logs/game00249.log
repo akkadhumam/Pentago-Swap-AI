@@ -1,0 +1,11 @@
+# Server version 0.08 running on humams-macbook-pro.local:8123
+# Game ID: 249
+# Board class: pentago_swap.PentagoBoard
+# Timeout: 2000
+# First Move Timeout: 30000
+# Date: Wed Apr 10 18:08:25 EDT 2019
+# Player 1: Player-0, 'RandomPlayer', running on humams-macbook-pro.local
+# Player 2: Player-1, '260751294', running on humams-macbook-pro.local
+START Player-0 RandomPlayer
+START Player-1 260751294
+5 2 TR BR 0
